@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class SearchInAMatrixI {
     public boolean searchMatrix(int[][] matrix, int target) {
         int start = 0 ;

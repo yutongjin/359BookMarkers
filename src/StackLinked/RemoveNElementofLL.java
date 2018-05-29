@@ -1,3 +1,5 @@
+package StackLinked;
+
 import StackLinked.ListNode;
 
 public class RemoveNElementofLL {

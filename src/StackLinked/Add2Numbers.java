@@ -12,10 +12,12 @@ public class Add2Numbers{
                 st1.push(l1.val);
                 l1 = l1.next;
             }
+
             while(l2 != null){
                 st2.push(l2.val);
                 l2 = l2.next;
             }
+
             while( carry == 1 || (!st1.isEmpty()) || (!st2.isEmpty())){ // carry很重要
                 int a1 = 0;
                 int a2 = 0;
