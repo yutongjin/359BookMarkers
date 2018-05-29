@@ -15,7 +15,7 @@ public class Combination4th377 {
 
         }
 
-    public static void main(String [] args){
-        System.out.print(new Combination4th377().combination(new int[]{1,2},5));
-    }
+//  //  public static void main(String [] args){
+//        System.out.print(new Combination4th377().combination(new int[]{1,2},5));
+//    }
 }

@@ -34,9 +34,9 @@ public class AddBinary {
             }
             else return String.valueOf(res,1,res.length-1);
         }
-    public static void main(String[] args){
-            System.out.println(new AddBinary().addBinary("11","11"));
-    }
-
+//    public static void main(String[] args){
+//            System.out.println(new AddBinary().addBinary("11","11"));
+//    }
+//
 
 }

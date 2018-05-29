@@ -1,7 +1,7 @@
 import StackLinked.ListNode;
 
 public class RemoveNElementofLL {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
+  /*  public ListNode removeNthFromEnd(ListNode head, int n) {
         if(head.next==null)
             return null;
         ListNode res = new ListNode(-1);
@@ -20,5 +20,6 @@ public class RemoveNElementofLL {
         }
         cur.next = cur.next.next;
         return res.next;
+        */
     }
-}
+
