@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87efd3d0-aa96-4e80-9146-4dfc8605720a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SearchForRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/SurrendedRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/CanJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetFolderSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackLinked/OddEvenList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/largestValues_In_EachRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/maxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashSet/validSudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/AddBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinatySearch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Combination4th377.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/LongestSubstring3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Permutation44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/RemoveNElementofLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/SearchInAMatrixI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/SearchInAMatrixII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Subsets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackLinked/AddBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinatySearch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Combination4th377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/Combination4th377.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestSubstring3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/LongestSubstring3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Permutation44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/Permutation44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveNElementofLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackLinked/RemoveNElementofLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInAMatrixI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInAMatrixI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInAMatrixII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInAMatrixII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackLinked/Add2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackLinked/Add2Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/Subsets.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="maxSubArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/maxSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validSudoku.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashSet/validSudoku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -89,20 +70,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="largestValues_In_EachRow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/largestValues_In_EachRow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#152#161#0" expanded="true" />
-                <element signature="e#361#371#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GetFolderSize.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GetFolderSize.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/CountAndSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -198,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/StackLinked/Add2Numbers.java" />
         <option value="$PROJECT_DIR$/src/GetFolderSize.java" />
         <option value="$PROJECT_DIR$/src/String/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/DP/maxSubArray.java" />
       </list>
     </option>
   </component>
@@ -232,13 +200,7 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
+              <item name="HashSet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -408,6 +370,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/String/CountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StackLinked/RemoveNElementofLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -546,21 +522,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/WORDBREAK.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/numTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/CourseSchedule.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -624,9 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinatySearch">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StackLinked/RemoveNElementofLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -669,16 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Get.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Get.java" />
     <entry file="file://$PROJECT_DIR$/src/BFS/CourseScheduleII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -705,8 +660,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -779,8 +734,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/maxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashSet/validSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
