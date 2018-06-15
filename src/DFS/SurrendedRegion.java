@@ -1,9 +1,12 @@
 package DFS;
 
+
+
 public class SurrendedRegion {
     public void solve(char[][] board) {
         if(board.length == 0 || board[0].length == 0 )
             return;
+
         for(int i = 0 ; i < board[0].length; i ++){
             if(board[0][i] == 'O')
                 dfs(0,i,board);
