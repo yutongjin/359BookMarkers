@@ -42,6 +42,60 @@ public class SurrendedRegionNew {
             dfs(i, j - 1,board);
 
         }
+/*
+* class Solution {
+    public List<int[]> pacificAtlantic(int[][] matrix) {
+        List<int []> res = new ArrayList<int []>();
+        if(matrix == null || matrix.length == 0 || matrix[0].length == 0)
+            return res;
+        int row = matrix.length;
+        int col = matrix[0].length;
+        boolean [][]pac = new boolean [row][col];
+        boolean [][]alt = new boolean [row][col];
+        Queue<int []> queuea = new LinkedList<int []>();
+        Queue<int []> queuep = new LinkedList<int []>();
+        for(int i = 0 ; i < row ; i ++){
+            queuea.offer(new int[]{i,col - 1});
+            queuep.offer(new int[]{i,0});
+            pac[i][0] = true;
+            alt[i][col - 1] = true;
+        }
+        for(int i = 0 ; i < col ; i ++){
+            queuea.offer(new int[]{row  - 1,i});
+            queuep.offer(new int[]{0, i});
+            pac[0][i] = true;
+            alt[row - 1][i] = true;
+        }
+       bfs(queuea,alt,matrix);
+      bfs(queuep,pac,matrix);
+        for(int i = 0 ; i < row;i++)
+            for(int j = 0; j <col ; j++){
+                if(pac[i][j] && alt[i][j])
+                    res.add(new int []{i,j});
+            }
+        return res;
+    }
 
+   private void bfs(Queue<int []> queue, boolean[][] visited, int [][] matrix){
+       int[][]dir = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
+             while(!queue.isEmpty()){
+            int size = queue.size();
+            int row = matrix.length;
+            int col = matrix[0].length;
+            for(int i = 0 ; i <size ; i ++){
+                int []cur = queue.poll();
+
+                for(int[] j : dir){
+                    int x = j[0] + cur[0];
+                    int y = j[1] + cur[1];
+                    if(x < 0 || x> row -1 || y < 0 || y > col - 1 || visited[x][y] || matrix[x][y] < matrix[cur[0]][cur[1]])
+                        continue;
+                    visited[x][y] = true;
+                    queue.offer(new int []{x,y});
+                }
+            }
+        }
+    }
+}*/
 
 }

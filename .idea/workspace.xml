@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87efd3d0-aa96-4e80-9146-4dfc8605720a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFS/PacificAtlanticWaterFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Permutation47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/PartitionEqualSubsetSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFS/SurrendedRegion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/SurrendedRegion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,15 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClimbStair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/ClimbStair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -108,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SurrendedRegionNew.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SurrendedRegionNew.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="271">
+              <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionEqualSubsetSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DP/PartitionEqualSubsetSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -182,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/DFS/PacificAtlanticWaterFlow.java" />
         <option value="$PROJECT_DIR$/src/DFS/SurrendedRegion.java" />
         <option value="$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java" />
+        <option value="$PROJECT_DIR$/src/DP/PartitionEqualSubsetSum.java" />
       </list>
     </option>
   </component>
@@ -405,16 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DFS/Permutation44.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StackLinked/AddBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -763,8 +752,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DFS/SurrendedRegionNew.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="271">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
         </state>
       </provider>
     </entry>
