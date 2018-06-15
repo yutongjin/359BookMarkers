@@ -50,11 +50,8 @@ public class PartitionEqualSubsetSum {
                 else if( 2 * cur > sum )
                 {
                     cur -= nums[j];
-                    j --;
                 }
-                else{
-                    j--;
-                }
+                j --;
 
             }
 
