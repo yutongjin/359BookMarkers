@@ -22,7 +22,7 @@ public class GetFolderSize {
 
             System.out.println("Total Number of types: "+ size.getTotalFolder());
 
-            System.out.println("Total Number of Questions: " + size.getTotalFile());
+            System.out.println("Total Number of Questions: " + (size.getTotalFile()-4));
 
         } catch (Exception e) {}
 
@@ -51,7 +51,7 @@ public class GetFolderSize {
 
 
         }
-        if(!folder.getName().equals("src")) {
+        if(!folder.getName().equals("src" )&&!folder.getName().equals("problems" )) {
             System.out.printf("%-20s", "Type : " + folder.getName());
             System.out.print("  Number :" + filelist.length + "\n");
         }
