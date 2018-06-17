@@ -1,9 +1,10 @@
 package Tree;
 
 public class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
+    public Tree.TreeNode right;
+    public int val;
+    public Tree.TreeNode left;
+
       TreeNode(int x) { val = x; }
   }
 
