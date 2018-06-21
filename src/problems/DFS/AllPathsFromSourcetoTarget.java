@@ -25,7 +25,7 @@ import java.util.List;
  * The number of nodes in the graph will be in the range [2, 15].
  * You can print different paths in any order, but you should keep the order of nodes inside one path.
  */
-public class AllPathsFromSourcetoTarget
+public class AllPathsFromSourcetoTarget{
         public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
             List<List<Integer>> res = new ArrayList<>();
             if(graph.length == 0)
