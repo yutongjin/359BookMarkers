@@ -2,90 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf6cf1e-1453-4a1b-b5ee-e202ac66a70b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yutongjin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_moon_WrongPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_11_ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_134_GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_151_ReverseWordsinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_152_MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_159_LongestSubstringwithAtMostTwoDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_205_IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_209_MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_20_ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_215_KthLargestElementinanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_228_SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_239_SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_23_MergekSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_240_Searcha2DMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_263_UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_26_RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_27_RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_290_Word_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_295_FindMedianfromDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_299_BullsandCows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_300_LongestIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_304_RangeSumQuer2DImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_325_MaximumizeSubarraySumEqualsk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_32_LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_340_LogestSubstringwithAtMostKDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_367_ValidPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_36_ValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_373_FindKPairswithSmallestSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_374_GuessNumberHigherorLower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_378_KthSmallestElementinaSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_385_MiniParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_38_CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_3_LongesSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_42_TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_443_StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_495_TeemoAttacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_50_Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_523_ContinuousSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_541_ReverseStringII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_554_BrickWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_560_SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_567_PermutationinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_56_MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_605_CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_621_TaskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_632_SmallestRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_636_ExclusiveTimeofFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_692_TopKFrequentWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_713_SubarrayProductLessThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_71_SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_720_LongestWordinDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_729_MyCalendarI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_735_AsteroidCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_74_Searcha2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_76_ColorSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_76_MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_781_RabbitsinForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_80_RemoveDuplicatesfromSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_819_MostCommonWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_833_FindAndReplaceinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_846_HandofStraights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_84_LargestRectangleinHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_853_CarFleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_85_MaximalRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_868_BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_869_ReorderedPowerof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_870_AdvantageShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/bst632.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/handofstraight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/longest_Mountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/newDFS0624.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/newSoftValley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/Array/QueueReconstructionbyHeight406. .java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/BitOp/hammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/BitOp/totalhammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/HashSet/NSV_781Rabbits_in_Forest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_112_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_PathSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_129_SumRoottoLeafNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_236_LowestCommonAncestorofaBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_250_CountUnivalueSubtrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Shu/_437_PathSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/linkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/linkedlist/_141_LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/linkedlist/_83_RemoveDuplicatesfromSortedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/NewSoftValley/Xian/_20_ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/NewSoftValley/Xian/_20_ValidParentheses.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,20 +25,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_374_GuessNumberHigherorLower.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_374_GuessNumberHigherorLower.java">
+      <file leaf-file-name="_141_LinkedListCycle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/_141_LinkedListCycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="220">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_moon_WrongPermutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_moon_WrongPermutation.java">
+      <file leaf-file-name="_83_RemoveDuplicatesfromSortedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/_83_RemoveDuplicatesfromSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="200">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_113_PathSumII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,20 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_85_MaximalRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_85_MaximalRectangle.java">
+      <file leaf-file-name="_129_SumRoottoLeafNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_129_SumRoottoLeafNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_632_SmallestRange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_632_SmallestRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="56" column="19" selection-start-line="30" selection-start-column="5" selection-end-line="56" selection-end-column="19" />
+            <state relative-caret-position="601">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,59 +67,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_20_ValidParentheses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_20_ValidParentheses.java">
+      <file leaf-file-name="_236_LowestCommonAncestorofaBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_236_LowestCommonAncestorofaBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="356">
+              <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_32_LongestValidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_32_LongestValidParentheses.java">
+      <file leaf-file-name="_437_PathSumIII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_437_PathSumIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="256">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1097#1114#0" expanded="true" />
+                <element signature="e#1762#1779#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_870_AdvantageShuffle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_870_AdvantageShuffle.java">
+      <file leaf-file-name="largestValues_In_EachRow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/Tree/largestValues_In_EachRow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="220">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_869_ReorderedPowerof2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_869_ReorderedPowerof2.java">
+      <file leaf-file-name="kthSmallestElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/Tree/kthSmallestElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertBSTtoGreaterTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/Tree/ConvertBSTtoGreaterTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_868_BinaryGap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_868_BinaryGap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_84_LargestRectangleinHistogram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_LargestRectangleinHistogram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="50" column="5" selection-start-line="23" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -221,16 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_71_SimplifyPath.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_605_CanPlaceFlowers.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_495_TeemoAttacking.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_729_MyCalendarI.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_385_MiniParser.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_295_FindMedianfromDataStream.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_263_UglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_378_KthSmallestElementinaSortedMatrix.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_692_TopKFrequentWords.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_134_GasStation.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_23_MergekSortedLists.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_240_Searcha2DMatrixII.java" />
@@ -272,6 +196,16 @@
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_869_ReorderedPowerof2.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_868_BinaryGap.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_20_ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_250_CountUnivalueSubtrees.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_112_PathSum.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/linkedlist/_141_LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/linkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/linkedlist/_83_RemoveDuplicatesfromSortedList.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_PathSumII.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_437_PathSumIII.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_129_SumRoottoLeafNumbers.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_236_LowestCommonAncestorofaBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -297,6 +231,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,13 +270,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,11 +386,13 @@
       <workItem from="1531518352434" duration="7098000" />
       <workItem from="1531602781035" duration="3761000" />
       <workItem from="1531639549941" duration="146000" />
+      <workItem from="1531727888583" duration="1032000" />
+      <workItem from="1531808637416" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11005000" />
+    <option name="totallyTimeSpent" value="12692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -459,15 +402,15 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5028612" side_tool="true" visible="true" weight="0.32948717" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.32948717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32948717" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30829757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31688127" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -503,111 +446,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_692_TopKFrequentWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/DFS/Combination4th377.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problems/DFS/PacificAtlanticWaterFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_134_GasStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_36_ValidSudoku.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_23_MergekSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#556#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_74_Searcha2DMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_300_LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_373_FindKPairswithSmallestSums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_11_ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_42_TrappingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_325_MaximumSizeSubarraySumEqualsk.kt" />
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_304_RangeSumQuer2DImmutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_325_MaximumizeSubarraySumEqualsk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_523_ContinuousSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#933#950#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#564#581#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,11 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1862#1863#0" expanded="true" />
-            <element signature="e#1923#1924#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
           <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="56" column="19" selection-start-line="30" selection-start-column="5" selection-end-line="56" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,9 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,7 +701,118 @@
     <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_20_ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_250_CountUnivalueSubtrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/几道linkedlist.java" />
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_112_PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/_141_LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/linkedlist/_83_RemoveDuplicatesfromSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Tree/kthSmallestElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Tree/ConvertBSTtoGreaterTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Tree/largestValues_In_EachRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_437_PathSumIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1097#1114#0" expanded="true" />
+            <element signature="e#1762#1779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_129_SumRoottoLeafNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_236_LowestCommonAncestorofaBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
         </state>
       </provider>
     </entry>
