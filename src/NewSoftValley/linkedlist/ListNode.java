@@ -6,8 +6,8 @@ package NewSoftValley.linkedlist;
  * @Description :
  */
 public class ListNode {
-    ListNode next;
-    int val;
+    public ListNode next;
+    public int val;
     ListNode(int val){
         this.val = val;
     }

@@ -18,11 +18,11 @@ public class _83_RemoveDuplicatesfromSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode dummy = new ListNode(-1);
         dummy.next = head;
-        while(head != null){//head != null
-            while(head.next != null && head.val == head.next.val){
+        while(head != null && head.next != null){//head != null
+            if(head.val == head.next.val){
                 head.next = head.next.next;
             }
-            head = head.next;
+            else head = head.next;
         }
         return dummy.next;
     }
