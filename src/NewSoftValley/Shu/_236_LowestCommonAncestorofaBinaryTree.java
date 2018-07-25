@@ -32,7 +32,7 @@ package NewSoftValley.Shu;
  * All of the nodes' values will be unique.
  * p and q are different and both values will exist in the binary tree.
  */
-public class _236_LowestCommonAncestorofaBinaryTree {
+public class _236_LowestCommonAncestorofaBinaryTree implements _236_ {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null){
             return root;
