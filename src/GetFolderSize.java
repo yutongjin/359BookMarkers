@@ -16,19 +16,19 @@ public class GetFolderSize {
         try {
 
             GetFolderSize size = new GetFolderSize();
-           // File file=new File(Main.folder);
+          // File file=new File(Main.folder);
 
-         //   String fileName=file.getName();
+      //      String fileName=file.getName();
 //
-          //  String fileTyle=fileName.substring(fileName.lastIndexOf("."),fileName.length());
+           // String fileTyle=fileName.substring(fileName.lastIndexOf("."),fileName.length());
 
-            //System.out.println(//fileTyle);
-          //  if(!file.isDirectory())
-           // System.out.println(file.getName().substring(file.getName().lastIndexOf("."),file.getName().length()));
-       //     else System.out.println("dir");
+          //  System.out.println(//fileTyle);　
+            //if(!file.isDirectory())
+            //System.out.println(file.getName().substring(file.getName().lastIndexOf("."),file.getName().length()));
+            //else System.out.println("dir");
              long fileSizeByte = size.getFileSize(new File(Main.folder));
              System.out.println();
-             // System.out.println("Folder Size: " + fileSizeByte + " Bytes");
+              System.out.println("Folder Size: " + fileSizeByte + " Bytes");
 
             System.out.println("Total Number of types: "+ size.getTotalFolder());
 
@@ -56,17 +56,18 @@ public class GetFolderSize {
                 totalFile++;
 
                 foldersize += filelist[i].length();
-                for (File file : filelist) {
-                    if (file.getName().substring(file.getName().lastIndexOf("."), file.getName().length()).equals("java"))
-                        javaFile++;
-                }
+               // for (File file : filelist) {
+                 //   if (file.getName().substring(file.getName().lastIndexOf("."), file.getName().length()).equals("java"))
+                  //      javaFile++;
+                //}
 
 
             }
-            if (!folder.getName().equals("src") && !folder.getName().equals("problems")) {
-                System.out.printf("%-20s", "Type : " + folder.getName());
-                System.out.print("  Number :" + filelist.length + "\n");
-            }
+
+        }
+        if (!folder.getName().equals("src") && !folder.getName().equals("problems")) {
+            System.out.printf("%-20s", "Type : " + folder.getName());
+            System.out.print("  Number :" + filelist.length + "\n");
         }
             return foldersize;
 
