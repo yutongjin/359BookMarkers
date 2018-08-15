@@ -2,10 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf6cf1e-1453-4a1b-b5ee-e202ac66a70b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Facebook/_278_81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facebook/_278_FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facebook/_637_AverageofLevelsinBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facebook/_637_BFS81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_120_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_125_ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_127_WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_127_bfsMemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_139_BUMEMO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_139_WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_140_WordBreak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_15_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_15_3sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_173_BFSTDTD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_173_BinarySearchTreeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_173_td.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_198_houseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_200_NumberofIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_200_TD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_213_houseRobber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_311_SparseMatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_311_baoli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_314_BinaryTreeVerticalOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_314_fs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_31_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_31_NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_337_houseRobber3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_377_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_377_combination4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_416_PartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_56_81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_56_MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_680_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_680_ValidPalindromeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_78_Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_78_TopDown81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_91_DecodWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/_91_DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/__140_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_347_Topkelement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_84_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/Xian/_84_810复习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_131_PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_221_MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_322_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_322_CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_518_CoinChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_518_CoinsChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_64_MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_764_LargestPlusSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_823_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_823_BinaryTreesWithFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewSoftValley/tu/_96_numberBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/TestForString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,110 +63,108 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_257_TD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Facebook/_257_TD.java">
+      <file leaf-file-name="_764_LargestPlusSign.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_764_LargestPlusSign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="97">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_662_MaximumWidthofBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_662_MaximumWidthofBinaryTree.java">
+      <file leaf-file-name="_84_LargestRectangleinHistogram.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_LargestRectangleinHistogram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="3" selection-start-line="23" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_84_.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_662_BFS81.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_662_BFS81.java">
+      <file leaf-file-name="_84_810复习.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_810复习.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_117_PopulatinNextRightPointersinEachNodeII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_117_PopulatinNextRightPointersinEachNodeII.java">
+      <file leaf-file-name="_140_WordBreak2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Facebook/_140_WordBreak2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_117_PopulatingNextRightPointersinEachNodeII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_117_PopulatingNextRightPointersinEachNodeII.java">
+      <file leaf-file-name="_91_DecodWays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Facebook/_91_DecodWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_637_AverageofLevelsinBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Facebook/_637_AverageofLevelsinBinaryTree.java">
+      <file leaf-file-name="_91_DecodeWays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Facebook/_91_DecodeWays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_637_BFS81.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Facebook/_637_BFS81.java">
+      <file leaf-file-name="TestForString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problems/TestForString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_278_FirstBadVersion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Facebook/_278_FirstBadVersion.java">
+      <file leaf-file-name="nOfMAllWrong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problems/DP/nOfMAllWrong.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="219">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_278_81.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Facebook/_278_81.java">
+      <file leaf-file-name="_78_TopDown81.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Facebook/_78_TopDown81.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeLinkNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/TreeLinkNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="176">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -129,8 +174,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Singleton" />
         <option value="Kotlin Class" />
+        <option value="Singleton" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -149,50 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_109_Z1.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_Z2.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_437_.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_437_Z2.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_129_.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_129_TopDown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_236_.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_236_LowestCommonAncestorofaBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_236_TopDown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_BottomUp724.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_437_Bottomup724.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_22_TopDown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_22_GenerateParentheses.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_93_RestoreIPAddresses.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_93_Topdown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_79_WordSearch.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_79_topdown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_39_CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_39_topdown.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_40_CombinationSum2.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_40_topdown.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_283_MoveZeroes.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_283_.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_67_Add_Binary.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_67_.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_BU730.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_TD730.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_113_BFS.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_253_MeetingRoomsII.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_253_730.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_543_DiameterofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_17_TD730.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_543_BU730.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_98_Validatebst.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_98_TD.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_199_BinaryTreeRightSideView.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_199_TD730.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_199_BFS731.java" />
-        <option value="$PROJECT_DIR$/src/GetFolderSize.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_257_BinaryTreePaths.java" />
-        <option value="$PROJECT_DIR$/src/Facebook/_257_TD.java" />
-        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_662_MaximumWidthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_662_BFS81.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_117_PopulatinNextRightPointersinEachNodeII.java" />
         <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/TreeLinkNode.java" />
@@ -200,6 +201,50 @@
         <option value="$PROJECT_DIR$/src/Facebook/_637_BFS81.java" />
         <option value="$PROJECT_DIR$/src/Facebook/_278_FirstBadVersion.java" />
         <option value="$PROJECT_DIR$/src/Facebook/_278_81.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_78_Subsets.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_314_BinaryTreeVerticalOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_314_fs.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_200_NumberofIslands.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_200_TD.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_347_Topkelement.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_173_BinarySearchTreeIterator.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_173_BFSTDTD.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_173_td.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_311_baoli.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_91_DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_56_81.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_56_MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_518_CoinChange2.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_518_CoinsChange.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_322_CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_322_.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_127_bfsMemo.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_377_.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_416_PartitionEqualSubsetSum.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_139_BUMEMO.java" />
+        <option value="$PROJECT_DIR$/src/problems/TestForString.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/__140_test.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_131_PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_680_ValidPalindromeII.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_680_.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Shu/_39_topdown.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_31_.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_96_numberBST.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_15_.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_823_BinaryTreesWithFactors.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_31_NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_198_houseRobber.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_213_houseRobber2.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_337_houseRobber3.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_125_ValidPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_221_MaximalSquare.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_64_MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_120_Triangle.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_84_.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/Xian/_84_810复习.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_140_WordBreak2.java" />
+        <option value="$PROJECT_DIR$/src/NewSoftValley/tu/_764_LargestPlusSign.java" />
+        <option value="$PROJECT_DIR$/src/Facebook/_78_TopDown81.java" />
       </list>
     </option>
   </component>
@@ -225,6 +270,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -243,12 +289,6 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="NewSoftValley" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,7 +296,7 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="NewSoftValley" type="462c0819:PsiDirectoryNode" />
-              <item name="Shu" type="462c0819:PsiDirectoryNode" />
+              <item name="tu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -275,12 +315,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,19 +347,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.nOfMAllWrong">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="_moon_WrongPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewSoftValley.Shu._moon_WrongPermutation" />
+    <configuration name="TestForString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.TestForString" />
       <module name="Leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NewSoftValley.Shu.*" />
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_518_CoinsChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewSoftValley.tu._518_CoinsChange" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NewSoftValley.tu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="__140_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Facebook.__140_test" />
+      <module name="Leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Facebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,14 +440,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application._moon_WrongPermutation" />
       <item itemvalue="Application.nOfMAllWrong" />
+      <item itemvalue="Application._518_CoinsChange" />
+      <item itemvalue="Application.TestForString" />
+      <item itemvalue="Application.__140_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.nOfMAllWrong" />
-        <item itemvalue="Application._moon_WrongPermutation" />
+        <item itemvalue="Application.TestForString" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.__140_test" />
+        <item itemvalue="Application._518_CoinsChange" />
       </list>
     </recent_temporary>
   </component>
@@ -430,43 +496,68 @@
       <workItem from="1533018499428" duration="231000" />
       <workItem from="1533021022717" duration="171000" />
       <workItem from="1533076660927" duration="5242000" />
+      <workItem from="1533150640630" duration="855000" />
+      <workItem from="1533171655869" duration="5000" />
+      <workItem from="1533197611634" duration="791000" />
+      <workItem from="1533264978796" duration="2194000" />
+      <workItem from="1533316279769" duration="2587000" />
+      <workItem from="1533456120392" duration="505000" />
+      <workItem from="1533537026528" duration="3461000" />
+      <workItem from="1533597302022" duration="1151000" />
+      <workItem from="1533681575783" duration="1340000" />
+      <workItem from="1533708649493" duration="937000" />
+      <workItem from="1533765234406" duration="308000" />
+      <workItem from="1533766334181" duration="1248000" />
+      <workItem from="1533966297274" duration="1053000" />
+      <workItem from="1534024614525" duration="912000" />
+      <workItem from="1534115761694" duration="1521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48320000" />
+    <option name="totallyTimeSpent" value="67188000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49356222" weight="0.32948717" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32948717" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48354793" weight="0.32948717" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5107296" side_tool="true" visible="true" weight="0.37820512" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4892704" weight="0.37820512" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48569384" weight="0.37820512" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.32948717" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.32948717" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36552218" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49904397" visible="true" weight="0.13090129" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.04077253" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.500956" side_tool="true" weight="0.45064378" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,406 +575,363 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_22_TopDown.java">
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_322_CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_22_GenerateParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_322_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="408">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_39_CombinationSum.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/coinsChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="198">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_39_topdown.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/countingbits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="153">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_40_CombinationSum2.java">
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/houseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="330">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/maxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/numTreesNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/DFS/Combination4th377.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_283_MoveZeroes.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_377_combination4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_283_.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_377_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_67_Add_Binary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_67_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_Z2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="240">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_BU730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_TD730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_PathSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_113_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_253_MeetingRoomsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_253_730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_17_LetterCombinationsofaPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_543_DiameterofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_17_TD730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6186">
-          <caret line="180" column="7" lean-forward="true" selection-start-line="180" selection-start-column="7" selection-end-line="180" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler/org.graalvm.compiler.phases.common/src/org/graalvm/compiler/phases/common/FloatingReadPhase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="151" column="40" lean-forward="true" selection-start-line="151" selection-start-column="40" selection-end-line="151" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_543_BU730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_93_Topdown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_98_ValidateBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_98_Validatebst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_98_TD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_199_BinaryTreeRightSideView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_199_TD730.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_199_BFS731.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_129_SumRoottoLeafNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_129_TopDown.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_416_PartitionEqualSubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_156_BinaryTreeUpsideDown.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_139_WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_139_BUMEMO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GetFolderSize.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/__140_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="67" column="2" lean-forward="true" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        <state relative-caret-position="600">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_257_BinaryTreePaths.java">
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_131_PalindromePartitioning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_257_TD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_662_MaximumWidthofBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_680_ValidPalindromeII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_662_BFS81.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_680_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_117_PopulatinNextRightPointersinEachNodeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_117_PopulatingNextRightPointersinEachNodeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_637_AverageofLevelsinBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_637_BFS81.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_278_FirstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facebook/_278_81.java">
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_17_TD730.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-          </folding>
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_127_bfsMemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_127_WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_253_730.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_39_CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_39_topdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a3a18268-9a75-412c-bb84-04b5f1346633/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_31_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Shu/_22_GenerateParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_96_numberBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_15_3sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_15_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_823_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_823_BinaryTreesWithFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_31_NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_198_houseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_213_houseRobber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_337_houseRobber3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_125_ValidPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_221_MaximalSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_64_MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_120_Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_LargestRectangleinHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/Xian/_84_810复习.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_140_WordBreak2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_91_DecodWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_91_DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewSoftValley/tu/_764_LargestPlusSign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Facebook/_78_TopDown81.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/TestForString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/DP/nOfMAllWrong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
